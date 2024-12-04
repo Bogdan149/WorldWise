@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Villafranca de Ebro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-29T20:33:37.423Z",
+      "notes": "",
+      "position": {
+        "lat": "41.57436130598913",
+        "lng": "-0.5712890625000001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Tobarra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-29T20:33:41.863Z",
+      "notes": "",
+      "position": {
+        "lat": "38.66835610151506",
+        "lng": "-1.6259765625"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Besbes",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-11-29T20:33:57.315Z",
+      "notes": "",
+      "position": {
+        "lat": "34.27083595165",
+        "lng": "5.075683593750001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Brasov",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-11-29T20:45:18.477Z",
+      "notes": "Beautiful",
+      "position": {
+        "lat": "45.521743896993634",
+        "lng": "25.598144531250004"
+      },
+      "id": 98443202
+    }
+  ]
+}
